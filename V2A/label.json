@@ -1,1 +1,18 @@
-
+{"id": "1", "label": "\n <S> <E> \n <AUDCAP> A cat meows loudly and clearly in the foreground. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "2", "label": "\n <S> <E> \n <AUDCAP> A brass instrument, likely a trumpet, plays a melody. The sound is then joined by the sound of someone playing a piano. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "3", "label": "\n <S> <E> \n <AUDCAP> A man sings and plays a rhythmic beat on three conga drums. The sound is percussive and musical, with the man's voice providing a vocal accompaniment to the drumming. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "4", "label": "\n <S> <E> \n <AUDCAP> The audio contains the distinct sounds of chewing and mastication, accompanied by the sound of a toothbrush being used. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "5", "label": "\n <S> <E> \n <AUDCAP> A steam train is moving along the tracks, producing a rhythmic chugging sound and the sound of hissing steam. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "6", "label": "\n <S> <E> \n <AUDCAP> A monkey is making vocalizations, including a high-pitched squeak or bark. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "7", "label": "\n <S> <E> \n <AUDCAP> A woman with long dark hair is singing. Her voice is the only audible sound in the recording. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "8", "label": "A Male, middle-aged, shouting says \n <S> Ahoy! Miss Pena! So, I missed her. <E> \n <AUDCAP> A man shouts in a panicked tone, followed by a loud, booming explosion. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "9", "label": "\n <S> <E> \n <AUDCAP> A person is audibly making a long, deep groaning or grunting sound. After a brief pause, they make a shorter, similar sound. The sounds are close and clear. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "10", "label": "\n <S> <E> \n <AUDCAP> A drumline performs a rhythmic piece. The sound consists of a drum kit with snare, bass, and tenor drums, accompanied by the crashes of cymbals, creating a percussive and energetic performance. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "11", "label": "\n <S> <E> \n <AUDCAP> A dog is heard howling multiple times in a row. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "12", "label": "\n <S> <E> \n <AUDCAP> A large group of female singers are singing in harmony. The sound is clear and resonant, suggesting a performance in a hall. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "13", "label": "\n <S> <E> \n <AUDCAP> A person is laughing, followed by a shout. The sounds are clear and appear to be from a group of people. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "14", "label": "A person says \n <S> [UN] <E> \n <AUDCAP> A vehicle engine is heard revving loudly, and a siren is blaring. A scream is also audible in the audio. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "15", "label": "A Male, middle-aged, instructional tone says \n <S> Here's a good place to start for this drill, with slight draw or a stop shot. Now a stop shot leaves us a good angle on the last stripe. <E> \n <AUDCAP> A cue ball is struck with a sharp impact sound, followed by a distinct click. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "16", "label": "\n <S> <E> \n <AUDCAP> A baby is laughing, then begins to cry. In the background, a dog can be heard barking. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "17", "label": "\n <S> <E> \n <AUDCAP> A large crowd is heard cheering and screaming, with the sound of their voices being loud and excited. The sounds are continuous throughout the audio clip. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "18", "label": "\n <S> <E> \n <AUDCAP> The audio contains prominent clucking and other vocalizations from birds, likely chickens. The sounds are clear and appear to be from sources close to the microphone. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
