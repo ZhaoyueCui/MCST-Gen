@@ -1,0 +1,10 @@
+{"id": "1", "label": "\n <S> <E> \n <AUDCAP> A cat meows loudly and clearly in the foreground. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "2", "label": "\n <S> <E> \n <AUDCAP> The audio contains prominent clucking and other vocalizations from birds, likely chickens. The sounds are clear and appear to be from sources close to the microphone. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "3", "label": "\n <S> <E> \n <AUDCAP> A man sings and plays a rhythmic beat on three conga drums. The sound is percussive and musical, with the man's voice providing a vocal accompaniment to the drumming. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "4", "label": "\n <S> <E> \n <AUDCAP> The audio contains the distinct sounds of chewing and mastication, accompanied by the sound of a toothbrush being used. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "5", "label": "\n <S> <E> \n <AUDCAP> A large crowd is heard cheering and screaming, with the sound of their voices being loud and excited. The sounds are continuous throughout the audio clip. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "6", "label": "\n <S> <E> \n <AUDCAP> A vehicle engine is heard revving loudly, and a siren is blaring.  <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "7", "label": "\n <S> <E> \n <AUDCAP> A large group of female singers are singing in harmony. The sound is clear and resonant, suggesting a performance in a hall. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "9", "label": "\n <S> <E> \n <AUDCAP> A person is audibly making a long, deep groaning or grunting sound. After a brief pause, they make a shorter, similar sound. The sounds are close and clear. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "8", "label": "\n <S> <E> \n <AUDCAP> A wolf is heard howling multiple times in a row. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
+{"id": "10", "label": "\n <S> <E> \n <AUDCAP> A drumline performs a rhythmic piece. The sound consists of a drum kit with snare, bass, and tenor drums, accompanied by the crashes of cymbals, creating a percussive and energetic performance. <ENDAUDCAP> \n <MUSIC> <ENDMUSIC>"}
