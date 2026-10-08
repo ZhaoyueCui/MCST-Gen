@@ -57,7 +57,7 @@ An empty component indicates that its corresponding label field is not specified
 
 The demo uses this repository's existing media files and preserves their original IDs and labels. It presents tasks in the order **V2ST → V2A → V2S → TTA → TTS → TTM**, with four samples per row on desktop. V2ST occupies two rows; each other task occupies one row. Smaller screens use two or one column.
 
-The page supports label search, section navigation, media playback, and expandable original labels. The complete collection of 75 samples remains available in the task folders.
+The page supports section navigation, media playback, and expandable original labels. The complete collection of 75 samples remains available in the task folders.
 
 GitHub Pages serves the demo from the `main` branch at the repository root. The repository URL used in the paper remains unchanged:
 
